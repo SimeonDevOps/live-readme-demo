@@ -13,6 +13,10 @@ Version control is central to IT and IaC. It is important to always leave a trac
 
 ![Version Control](image_2_bcbce3c582-1.jpg)
 
+<p align="center">
+  <img width="1000" src="./image_2_bcbce3c582.jpg">
+</p>
+
 !mage https://linode.github.io/beginners-guide-to-devops-tools/assets/images/2-1.jpg
 
 ## Current Status
