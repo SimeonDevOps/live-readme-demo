@@ -11,7 +11,7 @@ Version control is central to IT and IaC. It is important to always leave a trac
 
 **Engineering Excelence:** shift left requires leaving footprints so that dev's will spend less time, and are able to start exactly where you stopped to pick things up.
 
-![alt text]("C:\Users\hp\OneDrive\Desktop\SimeonDevops\image_2_bcbce3c582.jpg")
+![Version Control](image_2_bcbce3c582-1.jpg)
 
 ## Current Status
 
