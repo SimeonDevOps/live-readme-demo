@@ -22,3 +22,5 @@ Version control is central to IT and IaC. It is important to always leave a trac
 Version 2
 
 Updated September 2026.
+
+images/image_2_bcbce3c582.jpg
