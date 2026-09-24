@@ -35,6 +35,8 @@ In Git, the following commands or line of code can do the trick
 - 'git commit -m'
 - 'git push'
 - 'git pull'
+- git branch -v
+- git checkout -b dev
 
 ```python
 print("hello")
