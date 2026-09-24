@@ -31,7 +31,7 @@ Continuous Integration, Continuous Delivery, Engineering Excellence, and Git Bes
 ## Introduction <a id="Introduction"></a>
 
 <details>
-<summary>What is Version Control??</summary>
+<summary>What is Version Control?</summary>
 Version control is a system that tracks changes to files over time, allowing you to see what changed, who changed it, and when it changed.
 
 It is especially important in software development, where multiple developers may be working on the same codebase.
@@ -52,6 +52,8 @@ Version control creates organizational memory.
 
 ## Why Version Control Matter? <a id="Why-Version-Control-Matter"></a>
 
+<details>
+<summary>Why it matters</summary>
 Without Version Control:
 
 ❌ No accountability
@@ -142,10 +144,14 @@ Every deployment is reproducible.
 
 That is DevOps maturity.
 
+</details>
+
 ---
 
 ## Git Architecture <a id="Git-Architecture"></a>
 
+<details>
+<summary>Git Architecture and Commands</summary>
 ```text
 Working Directory
        |
@@ -334,7 +340,8 @@ Bad Pull Request Title:
 changes
 ```
 
----
+</details>
+
 
 ## Resolving Merge Conflicts <a id="Resolving-Merge-Conflicts"></a>
 
