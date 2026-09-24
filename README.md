@@ -10,9 +10,11 @@ A practical guide to Version Control, Collaboration, Infrastructure as Code (IaC
 Continuous Integration, Continuous Delivery, Engineering Excellence, and Git Best Practices.
 
 
+
+
 # Table of Contents
 
-- [Introduction](Introduction) 
+- [Introduction](#Introduction) 
 - [Why Version Control Matter](#Why-Version-Control-Matter) 
 - [Engineering excellence](#engineering-excellence)
 - [The Story of a Devops Engineer](#The-Story-of-a-Devops-Engineer)
@@ -30,8 +32,8 @@ Continuous Integration, Continuous Delivery, Engineering Excellence, and Git Bes
 
 ## Introduction <a id="Introduction"></a>
 
-<details>
-<summary>What is Version Control?</summary>
+What is Version Control?
+
 Version control is a system that tracks changes to files over time, allowing you to see what changed, who changed it, and when it changed.
 
 It is especially important in software development, where multiple developers may be working on the same codebase.
@@ -46,14 +48,13 @@ The goal is simple:
 
 Version control creates organizational memory.
 
-</details>
+
 
 ---
 
 ## Why Version Control Matter? <a id="Why-Version-Control-Matter"></a>
 
-<details>
-<summary>Why it matters</summary>
+
 Without Version Control:
 
 ❌ No accountability
@@ -144,14 +145,11 @@ Every deployment is reproducible.
 
 That is DevOps maturity.
 
-</details>
 
 ---
 
 ## Git Architecture <a id="Git-Architecture"></a>
 
-<details>
-<summary>Git Architecture and Commands</summary>
 ```text
 Working Directory
        |
@@ -340,7 +338,6 @@ Bad Pull Request Title:
 changes
 ```
 
-</details>
 
 
 ## Resolving Merge Conflicts <a id="Resolving-Merge-Conflicts"></a>
@@ -534,9 +531,9 @@ Rebase creates a cleaner history.
 
 ### Internal Repository Links
 
-- ./docs/branching-strategy.md
-- ./docs/conflict-resolution.md
-- ./docs/pull-requests.md
+- [Branching Strategy](./branching-strategy.md )
+  - [Conflict Resolution](./conflict-resolution.md)
+  - [Pulls-pull-request](./Pulls-pull-requests.md)
 
 ### Useful External References
 
