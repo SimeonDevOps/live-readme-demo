@@ -531,7 +531,7 @@ Rebase creates a cleaner history.
 
 ### Internal Repository Links
 
-- [Branching Strategy](./branching-strategy.md )
+  - [Branching Strategy](./branching-strategy.md )
   - [Conflict Resolution](./conflict-resolution.md)
   - [Pulls-pull-request](./Pulls-pull-requests.md)
 
