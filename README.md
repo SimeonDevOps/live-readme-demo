@@ -13,7 +13,7 @@ Version control is central to IT and IaC. It is important to always leave a trac
 
 
 <p align="center">
-  <img width="1000" src="./image_2_bcbce3c582.jpg">
+  <img width="1000" src="https://icodebootcamp.com/wp-content/uploads/2023/04/Guide-to-Choosing-Version-Control-For-Your-PCB-Design-Projects-72813.png">
 </p>
 
 
@@ -24,3 +24,18 @@ Version 2
 Updated September 2026.
 
 images/image_2_bcbce3c582.jpg
+
+*versioning or version control* helps with providing a mechanism for avoiding a single point of failuire.
+
+In Git, the following commands or line of code can do the trick
+
+- 'git status'
+- 'git init'
+- 'git add'
+- 'git commit -m'
+- 'git push'
+- 'git pull'
+
+```python
+print("hello")
+```
