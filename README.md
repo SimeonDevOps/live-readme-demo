@@ -36,7 +36,7 @@ In Git, the following commands or line of code can do the trick
 - 'git push'
 - 'git pull'
 - git branch -v
-- git checkout -b dev
+- git checkout -b dev: main command for creating a branch
 
 ```python
 print("hello")
